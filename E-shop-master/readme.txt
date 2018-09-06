@@ -7,3 +7,5 @@ Git has a mutable index called stage.
 my boss is aaaaaaaaaaaa
 fffffffffffffffffffffffffffffffffffffffffffffff
 Creating a new branch is quick.
+
+Creating a new branch is quick.Creating a new branch is quick.
